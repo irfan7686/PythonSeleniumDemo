@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+	<testsuite name="pytest" errors="0" failures="0" skipped="0" tests="4" time="59.016" timestamp="2022-06-14T15:52:30.477475" hostname="L108158">
+		<testcase classname="test_HomePage.TestHomePage" name="test_UserRegistration[getData0]" time="7.924"/>
+		<testcase classname="test_HomePage.TestHomePage" name="test_UserRegistration[getData1]" time="1.774"/>
+		<testcase classname="test_HomePage.TestHomePage" name="test_UserRegistration[getData2]" time="1.786"/>
+		<testcase classname="test_e2e.TestOne" name="test_e2e" time="47.464"/>
+	</testsuite>
+</testsuites>
